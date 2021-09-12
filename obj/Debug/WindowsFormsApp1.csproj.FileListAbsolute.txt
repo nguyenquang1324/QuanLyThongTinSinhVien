@@ -1,0 +1,21 @@
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formchinh.resources
