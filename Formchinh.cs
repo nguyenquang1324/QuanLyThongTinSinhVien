@@ -144,14 +144,17 @@ namespace WindowsFormsApp1
             dataGridView1.DataSource = table;
         }
 
-        private DataTable red(string v)
-        {
-            throw new NotImplementedException();
-        }
 
         private void button2_Click(object sender, EventArgs e)
         {
             ketnoicsdl();
         }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+    
     }
 }
